@@ -1,3 +1,3 @@
- int k=3;
-//  node* newHead = reverseK(head,k);
-//     display(newHead);
+ // for(int x: aa){
+    //     cin>>x;
+    // }
